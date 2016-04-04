@@ -1,0 +1,10 @@
+1x Arduino Uno (ATmega Version Board 328P UNO R3 ATmega16U2 & Free USB Cable for Arduino DE) £5.97
+1x DS18B20 temperature module (DS18B20 Module DS18B20 Temperature Measurement Sensor Module TN2F) £1.29
+1x relay board (5V 2-CHANNEL BOARD RELAY MODULE SHIELD FOR ARDUINO ARM PIC AVR DSP ELECTRONIC UK) £2.52
+1x red led
+1x green led
+2x 10KA (linear taper) potentiometers & knobs
+2x 330R 1/4W resistors
+1x 4K7 1/4W resistor
+1x project case
+7/02 project wire - various colours
